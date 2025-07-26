@@ -1,0 +1,19 @@
+{
+    "main": {
+        "name": "Haikal Frastiawan",
+        "description": "I Am a Software Enginner",
+        "github": "https://github.com/HaikalFrastiawan",
+        "project": "https://github.com/HaikalFrastiawan",
+        "bio": "Ini adalah Biografi aku",
+        "contactmessage":"Hello, here I am",
+        "email": "HaikalFrastiawan16@gmail.com",
+        "phone": "089654461330",
+        "address":{
+            "street":"Jl Tipar Cakung",
+            "city":"Jakarta",
+            "state":"DKI Jakarta",
+            "zip": "161039"}
+        }, 
+        "website": "https://github.com/HaikalFrastiawan",
+        "resumedownload":"git@github.com:HaikalFrastiawan/MySkill---REACT.git"
+}
