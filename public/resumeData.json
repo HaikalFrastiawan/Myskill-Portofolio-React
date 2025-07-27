@@ -1,19 +1,174 @@
 {
     "main": {
-        "name": "Haikal Frastiawan",
-        "description": "I Am a Software Enginner",
-        "github": "https://github.com/HaikalFrastiawan",
-        "project": "https://github.com/HaikalFrastiawan",
-        "bio": "Ini adalah Biografi aku",
+        "name" : "Haikal Frastiawan",
+        "description": "I am a programmer",
+        "image":"profilepic.jpg",
+        "github":"https://github.com/HaikalFrastiawan",
+        "project":"https://github.com/HaikalFrastiawan",
+        "bio": "Ini adalah section biografi aku",
         "contactmessage":"Hello, here I am",
-        "email": "HaikalFrastiawan16@gmail.com",
-        "phone": "089654461330",
+        "email": "@gmail.com",
+        "phone": "877-1234-5678",
         "address":{
-            "street":"Jl Tipar Cakung",
-            "city":"Jakarta",
-            "state":"DKI Jakarta",
-            "zip": "161039"}
-        }, 
-        "website": "https://github.com/HaikalFrastiawan",
-        "resumedownload":"git@github.com:HaikalFrastiawan/MySkill---REACT.git"
+            "street":"Jl Margonda Raya",
+            "city":"Depok",
+            "state":"West Java",
+            "zip": "16024"
+        },
+        "website": "https://github.com/mutiarahmatun",
+        "resumedownload":"https://github.com/mutiarahmatun",
+        "social":[
+          {
+            "name": "facebook",
+            "url": "https://github.com/mutiarahmatun",
+            "className": "fa fa-facebook"
+          },
+          {
+            "name":"twitter",
+            "url":"http://twitter.com",
+            "className":"fa fa-twitter"
+          },
+          {
+            "name":"linkedin",
+            "url":"https://www.linkedin.com/in/mutia-rahmatun-husna/",
+            "className":"fa fa-linkedin"
+          },
+          {
+            "name":"instagram",
+            "url":"http://instagram.com/mutia.rahmatun",
+            "className":"fa fa-instagram"
+          },
+          {
+            "name":"github",
+            "url":"https://github.com/mutiarahmatun",
+            "className":"fa fa-github"
+          }
+        ]
+    },
+    "resume" : {
+        "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+        "education" : [
+            {
+                "school": "Universitas Dian Nusantara",
+                "degree": "Bachelor degree of Computer Science (Expected)",
+                "graduated": "June 2027",
+                "description" : "I am joining gemastik competition"
+            },
+            {
+                "school": "SMKN 4 Jakarta",
+                "degree": "Technic",
+                "graduated": "May 2024",
+                "description": "I am joining computer olympiad"
+            }
+        ],
+        "work": [
+            {
+                "company" : "PT. Indopintan Adi Perkasa",
+                "title" : "Technician",
+                "years": "june 2024 - now",
+                "description": "Reapir all Electronic devices"
+            }
+        ],
+        "skills": [
+            {
+                "name" : "Javascript",
+                "level": "95%"
+            },
+            {
+                "name": "Typescript",
+                "level": "70%"
+            },
+            {
+                "name": "ReactJS",
+                "level": "85%"
+            },
+            {
+                "name": "NodeJs",
+                "level": "88%"
+            },
+            {
+                "name": "Mysql",
+                "level": "95%"
+            },
+            {
+                "name": "PHP",
+                "level": "60%"
+            }
+        ]
+    },    "portfolio":{
+        "projects": [
+            {
+                "title": "Canadian Wanderlust",
+                "category": "My travel blog for my post-university",
+                "image": "01.jpg",
+                "url": "https://www.canadianwanderlust.com"
+            },
+            {
+                "title":"Fury Fighting Gear",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"02.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"03.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Resume Website",
+                "category":"A React based resume website template",
+                "image":"04.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Smirkspace",
+                "category":"(MVP Only) A React and Meteor based chat University project.",
+                "image":"05.jpg",
+                "url":"http://www.smirkspace.com"
+              },
+              {
+                "title":"Canadian Wanderlust",
+                "category":"My Travel Blog for my post-university travels",
+                "image":"06.jpg",
+                "url":"https://www.canadianwanderlust.com"
+              },
+              {
+                "title":"Fury Fighting Gear",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"01.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"02.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"03.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Resume Website",
+                "category":"A React based resume website template",
+                "image":"04.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Smirkspace",
+                "category":"(MVP Only) A React and Meteor based chat University project.",
+                "image":"05.jpg",
+                "url":"http://www.smirkspace.com"
+              },
+              {
+                "title":"Canadian Wanderlust",
+                "category":"My Travel Blog for my post-university travels",
+                "image":"06.jpg",
+                "url":"https://www.canadianwanderlust.com"
+              }
+        ]
+    }
 }
